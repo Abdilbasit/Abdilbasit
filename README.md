@@ -6,33 +6,29 @@
 
 ---
 
-### 📌 **About Me**
-🔹 Passionate about **AI, cloud security, and automation**  
-🔹 Experienced with **Terraform, Kubernetes, AWS, and VPN security**  
-🔹 Building **secure, scalable systems** and exploring **machine learning**  
+### 🔨 **Currently Working On**
+- **🖐 Hand Gesture Recognition** – Controlling a computer using hand gestures via computer vision.  
+
 
 ---
 
-### 🛠 **Tech Stack**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+### 📂 **Projects**
+- **[Robo-Uber AI](https://github.com/AbdilbasitAdan/Robo-Uber)** – AI-powered taxi dispatch system.  
+- **[Hand Gesture Recognition](https://github.com/AbdilbasitAdan/Gesture-Control)** – Computer vision-based hand tracking system.  
+- **[Machine Learning Implementation](https://github.com/AbdilbasitAdan/ML-Coursework)** – Neural networks and perceptron implementation in R.  
 
 ---
 
-### 📈 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdilbasitAdan&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdilbasitAdan&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdilbasitAdan&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+### 📜 **Certifications**
+✅ **Harvard CS50 Cybersecurity**  
+✅ **Google Data Analytics**  
+✅ **ISC2 Certified in Cybersecurity (CC)**  
+✅ **AWS Cloud Practitioner (In Progress)**  
+✅ **Certified Kubernetes Administrator (In Progress)**  
 
 ---
 
 ### 📫 **Connect With Me**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdilbasit)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Abdilbasit)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aabdilbasit@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdilbasitadan)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AbdilbasitAdan)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aadan@brookes.ac.uk)  
