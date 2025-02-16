@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Abdilbasit Adan  
 🚀 **Cybersecurity | AI | DevOps | Data Science**  
-🎓 **BSc Computer Science, Oxford Brookes University** (Graduating May 2025)  
-💼 **IT Officer @ Oxford Brookes | Ex-DevOps Engineer Intern @ Elsevier**  
+🎓 **BSc Computer Science, Oxford Brookes University**    
 📜 **Certified:** Harvard CS50 Cybersecurity | Google Data Analytics | ISC2 CC  
 
 ---
@@ -16,8 +15,11 @@
 - **Robo-Uber AI – AI-Powered Taxi Dispatch System**
   - Robo-Uber AI is a simulation-based taxi dispatch system that optimizes ride allocation using AI and agent-based modeling. It simulates autonomous taxis navigating a virtual city, responding to ride requests, and competing for fares through a dynamic bidding system. The system incorporates real-time dispatching, path optimization, and a competitive fare bidding mechanism, making it an efficient and scalable solution for ride-hailing simulations. This project highlights my expertise in Python, AI-driven decision-making, and simulation modeling. 🚖💡
   - **[View Project](https://github.com/Abdilbasit/Robo-Uber-AI)**
-- **[Hand Gesture Recognition](https://github.com/AbdilbasitAdan/Gesture-Control)** – Computer vision-based hand tracking system.  
-- **[Machine Learning Implementation](https://github.com/AbdilbasitAdan/ML-Coursework)** – Neural networks and perceptron implementation in R.  
+
+-  **Neural-Networks Multilayer-perceptron vs Multi Cover Persistence**
+   - This project explores the performance and effectiveness of Multilayer Perceptrons (MLP) compared to Multi-Cover Persistence in machine learning tasks. The MLP, a deep learning architecture, is trained using backpropagation and gradient descent to optimize classification accuracy, while Multi-Cover Persistence, a topological data analysis method, provides insights into data structure and feature significance. The comparison highlights how neural networks excel in predictive modeling, whereas persistence-based methods offer robustness in capturing complex topological features. This project demonstrates the strengths and trade-offs of both approaches, making it a valuable study in AI-driven pattern recognition and classification.
+    - **[View Project](https://github.com/Abdilbasit/Neural-Networks---Multilayer-perceptron-vs-Multi-Cover-Persistence)**
+
 
 ---
 
