@@ -7,7 +7,7 @@
 
 ### 🔨 **Currently Working On**
 - **🖐 Hand Gesture Recognition**
-  – The focus of this project is the creation of an advanced hand gesture recognition system, with a webcam feed being used to control computer mouse and keyboard functions. With the powerful hand-tracking model by Media Pipe integrated with a machine learning-based gesture classification algorithm, the system will enable users to create various actions like clicking, dragging, and typing simply by moving their hands. The goal is to improve user experience and efficiency through natural gesture-based controls.
+   - The focus of this project is the creation of an advanced hand gesture recognition system, with a webcam feed being used to control computer mouse and keyboard functions. With the powerful hand-tracking model by Media Pipe integrated with a machine learning-based gesture classification algorithm, the system will enable users to create various actions like clicking, dragging, and typing simply by moving their hands. The goal is to improve user experience and efficiency through natural gesture-based controls.
   - **[View Project](https://github.com/Abdilbasit/HandGestureRecognition)**  
 
 
@@ -29,6 +29,10 @@
 -  **Personal Finance Tracker**
    -  A desktop application built with WPF and the MVVM pattern, allowing users to track incomes and expenses. This project leverages Entity Framework Core with an in-memory SQLite database to demonstrate local data persistence and clean, maintainable UI logic. It highlights my ability to develop rich, user-friendly applications using modern C# and design principles.
     - **[View Project](https://github.com/Abdilbasit/PersonalFinanceTracker)**
+
+ -  **Weather Dashboard**
+   - A responsive web application built with vanilla JavaScript, HTML, and CSS that fetches real-time weather data from the OpenWeatherMap API. This project demonstrates my proficiency with asynchronous JavaScript (using the Fetch API), DOM manipulation, and modern web development practices
+    - **[View Project](https://github.com/Abdilbasit/Weather-Dashboard)**
 ---
 
 ### 📜 **Certifications**
