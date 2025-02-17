@@ -2,7 +2,7 @@
 
 🚀 **Cybersecurity | AI | DevOps | Data Science**  
 🎓 **BSc Computer Science, Oxford Brookes University**  
-📜 **Certifications:** [Harvard CS50 Cybersecurity](https://certificates.cs50.io/587dc7ff-90b0-4e1b-bdde-f8cf69908d62.pdf?size=letter) | [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/LRXUNLHN4U28) | [ISC2 CC](https://www.linkedin.com/in/abdilbasit/details/certifications/1725964869924/single-media-viewer/?profileId=ACoAAEbbrQgBBjsMvLHevhegnFHrv7jUKKBBKEs)
+📜 **Certifications:** [Harvard CS50 Cybersecurity](https://certificates.cs50.io/587dc7ff-90b0-4e1b-bdde-f8cf69908d62.pdf?size=letter) | [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/LRXUNLHN4U28) | [ISC2 CC](https://www.linkedin.com/in/abdilbasit/details/certifications/)
 
 ---
 
@@ -52,7 +52,7 @@
 
 - [Harvard CS50 Cybersecurity](https://certificates.cs50.io/587dc7ff-90b0-4e1b-bdde-f8cf69908d62.pdf?size=letter)
 - [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/LRXUNLHN4U28)
-- [ISC2 Certified in Cybersecurity (CC)](https://www.linkedin.com/in/abdilbasit/details/certifications/1725964869924/single-media-viewer/?profileId=ACoAAEbbrQgBBjsMvLHevhegnFHrv7jUKKBBKEs)
+- [ISC2 Certified in Cybersecurity (CC)](https://www.linkedin.com/in/abdilbasit/details/certifications/)
 
 ---
 
