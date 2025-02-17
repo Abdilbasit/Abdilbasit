@@ -22,7 +22,10 @@
    - This project explores the performance and effectiveness of Multilayer Perceptrons (MLP) compared to Multi-Cover Persistence in machine learning tasks. The MLP, a deep learning architecture, is trained using backpropagation and gradient descent to optimize classification accuracy, while Multi-Cover Persistence, a topological data analysis method, provides insights into data structure and feature significance. The comparison highlights how neural networks excel in predictive modeling, whereas persistence-based methods offer robustness in capturing complex topological features. This project demonstrates the strengths and trade-offs of both approaches, making it a valuable study in AI-driven pattern recognition and classification.
     - **[View Project](https://github.com/Abdilbasit/Neural-Networks---Multilayer-perceptron-vs-Multi-Cover-Persistence)**
 
-
+-  **Employee Management REST API**
+   -  A robust RESTful API built with Spring Boot that demonstrates full-stack Java development. This project allows users to perform CRUD operations on employee records using Spring Data JPA with an H2 in-memory database. It showcases my ability to design and implement scalable, production-ready applications, complete with comprehensive exception handling and a clean, modular code structure.
+    - **[View Project](https://github.com/Abdilbasit/Employee-Management-REST-API)**
+  
 ---
 
 ### 📜 **Certifications**
