@@ -6,7 +6,9 @@
 ---
 
 ### 🔨 **Currently Working On**
-- **🖐 Hand Gesture Recognition** – Controlling a computer using hand gestures via computer vision.  
+- **🖐 Hand Gesture Recognition**
+  – The focus of this project is the creation of an advanced hand gesture recognition system, with a webcam feed being used to control computer mouse and keyboard functions. With the powerful hand-tracking model by Media Pipe integrated with a machine learning-based gesture classification algorithm, the system will enable users to create various actions like clicking, dragging, and typing simply by moving their hands. The goal is to improve user experience and efficiency through natural gesture-based controls.
+  - **[View Project](https://github.com/Abdilbasit/HandGestureRecognition)**  
 
 
 ---
