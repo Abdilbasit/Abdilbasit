@@ -25,7 +25,10 @@
 -  **Employee Management REST API**
    -  A robust RESTful API built with Spring Boot that demonstrates full-stack Java development. This project allows users to perform CRUD operations on employee records using Spring Data JPA with an H2 in-memory database. It showcases my ability to design and implement scalable, production-ready applications, complete with comprehensive exception handling and a clean, modular code structure.
     - **[View Project](https://github.com/Abdilbasit/Employee-Management-REST-API)**
-  
+
+-  **Personal Finance Tracker**
+   -  A desktop application built with WPF and the MVVM pattern, allowing users to track incomes and expenses. This project leverages Entity Framework Core with an in-memory SQLite database to demonstrate local data persistence and clean, maintainable UI logic. It highlights my ability to develop rich, user-friendly applications using modern C# and design principles.
+    - **[View Project](https://github.com/Abdilbasit/PersonalFinanceTracker)**
 ---
 
 ### 📜 **Certifications**
