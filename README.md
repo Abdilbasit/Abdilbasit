@@ -23,7 +23,7 @@
 - **Highlights:** Real-time dispatching, path optimization, and competitive fare bidding showcase my expertise in Python, AI-driven decision-making, and simulation modeling.  
 - **[View Project](https://github.com/Abdilbasit/Robo-Uber-AI)**
 
-### 🤖 **Neural-Networks Multilayer-perceptron vs Multi Cover Persistence**
+### 🤖 **Neural-Networks MLP vs MCP**
 - **Overview:** A comparative study between Multilayer Perceptrons (MLP) and Multi-Cover Persistence in machine learning tasks.  
 - **Highlights:**  
   - **MLP:** Trained using backpropagation and gradient descent for classification accuracy.  
